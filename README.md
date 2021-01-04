@@ -1,11 +1,11 @@
 README MP4: University Database
 
 1)
-Shree Murthy
-2374658
-shmurthy@chapman.edu
-CPSC 231-01
-MP4: University Database
+   Shree Murthy
+   ID: 2374658
+   shmurthy@chapman.edu
+   CPSC 231-01
+   MP4: University Database
 
 2) Printable.java
    Affiliates.java
